@@ -26,7 +26,7 @@ Things you may want to cover:
 ① dockerをインストールしておく。<br>
 ② Railsアプリを置く作業用ディレクトリを作成し移動する
 ```
-mkdir <ディレクトリ名> && <ディレクトリ名>
+mkdir <ディレクトリ名> && cd <ディレクトリ名>
 ```
 ③ $ git cloneでリポジトリを自分の手元のローカルに複製する
 ```
